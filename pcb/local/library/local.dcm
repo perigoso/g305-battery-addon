@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP23030-AY
+D 8MHz PWM 400mA Buck Regulator with HyperLight Load
+K  Buck Regulator HyperLight Load
+F https://ww1.microchip.com/downloads/en/DeviceDoc/mic23030.pdf
+$ENDCMP
+#
+$CMP MCP23030-GY
+D 8MHz PWM 400mA Buck Regulator with HyperLight Load
+K  Buck Regulator HyperLight Load
+F https://ww1.microchip.com/downloads/en/DeviceDoc/mic23030.pdf
+$ENDCMP
+#
+$CMP MCP73830
+D Single Cell Lithium-Ion Charge Management Controller w/ Soft Start
+K Single Cell Lithium-Ion Charge Management Controller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73830-L-Data-Sheet-DS20005049E.pdf
+$ENDCMP
+#
+#End Doc Library
